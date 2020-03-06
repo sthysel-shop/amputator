@@ -9,6 +9,9 @@ circular saw I used before to prepare kindling, if you can believe that.
 #+caption: Top
 [[file:pics/top1.jpg]]
 
+The amputator ready to amputate, and perhaps chop some kindling. Branches are
+fed against the spin, as you'd expect.
+
 #+caption: Top
 [[file:pics/top2.jpg]]
 
@@ -39,6 +42,8 @@ circular saw I used before to prepare kindling, if you can believe that.
 
 #+caption: Mount detail
 [[file:pics/mount-detail1.jpg]]
+
+Just some semi-countersunk zink screws.
 
 #+caption: Mount detail
 [[file:pics/mount-detail2.jpg]]
