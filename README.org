@@ -1,0 +1,48 @@
+#+title: The Amputator
+
+The amputator is kindle preparing device cobbled from a old circular saw, MDF
+and a old saw table. It was deemed saver to make this than the hand-held
+circular saw I used before to prepare kindling, if you can believe that.
+
+* Top
+
+#+caption: Top
+[[file:pics/top1.jpg]]
+
+#+caption: Top
+[[file:pics/top2.jpg]]
+
+* Back
+#+caption: Back
+[[file:pics/back1.jpg]]
+
+#+caption: Another Back
+[[file:pics/back2.jpg]]
+
+* Side
+
+#+caption: Side
+[[file:pics/side1.jpg]]
+
+#+caption: Side
+[[file:pics/side2.jpg]]
+
+#+caption: Side
+[[file:pics/side3.jpg]]
+
+* Underneath
+
+#+caption: Underneath
+[[file:pics/below1.jpg]]
+
+* Mounting detail
+
+#+caption: Mount detail
+[[file:pics/mount-detail1.jpg]]
+
+#+caption: Mount detail
+[[file:pics/mount-detail2.jpg]]
+
+#+caption: Mount detail
+[[file:pics/mount-detail3.jpg]]
+
